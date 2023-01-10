@@ -1,0 +1,21 @@
+body{
+    font-family: poppins;
+}
+h1{
+    font-size: 48pt;
+    text-align: center;
+    color:  #3E3E3E;
+    font-family: Poppin;
+}
+.content{
+    text-align: center;
+}
+.month,.day{
+    border-radius: 5px;
+    background-color: #D9D9D9;
+}
+.classify{
+    background-color:#F042F4;
+    border-radius: 5px;
+    color: #ffffff;
+}
